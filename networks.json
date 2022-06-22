@@ -1,0 +1,7 @@
+{
+  "rinkeby": {
+    "BulkPayment": {
+      "address": "0x8D36327Ce475b22903EE268a8ada20bDDB353FB6"
+    }
+  }
+}
